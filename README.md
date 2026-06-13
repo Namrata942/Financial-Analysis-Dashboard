@@ -1,6 +1,5 @@
-# Financial-Analysis-Dashboard
-📊 Finance Analytics Dashboard - Power BI
-Overview
+# 📊 Financial-Analysis-Dashboard
+# Overview
 
 This project is an interactive Finance Analytics Dashboard built in Power BI to analyze transaction data and provide business insights related to revenue, fees, taxes, customer segments, and transaction performance.
 
@@ -17,7 +16,7 @@ Transaction Details
 <img width="1640" height="841" alt="image" src="https://github.com/user-attachments/assets/399af26c-d82c-4562-a9fe-b7fdae39c70a" />
 
 
-Business Problem
+# Business Problem
 
 Financial institutions process thousands of transactions daily. Decision-makers need a centralized dashboard to:
 
