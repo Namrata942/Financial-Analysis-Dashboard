@@ -9,11 +9,13 @@ The dashboard enables stakeholders to monitor financial KPIs, identify trends, a
 Dashboard Preview
 Overview Analysis
 
-(Add Screenshot 1)
+<img width="1181" height="642" alt="image" src="https://github.com/user-attachments/assets/8da03675-f7a2-4329-94c7-ed937e52833f" />
+
 
 Transaction Details
 
-(Add Screenshot 2)
+<img width="1640" height="841" alt="image" src="https://github.com/user-attachments/assets/399af26c-d82c-4562-a9fe-b7fdae39c70a" />
+
 
 Business Problem
 
